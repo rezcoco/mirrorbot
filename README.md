@@ -1,6 +1,7 @@
 # What is this repo about?
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
-
+# Deploy
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 # Inspiration 
 This project is heavily inspired from @out386 's telegram bot which is written in JS.
 
